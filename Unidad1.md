@@ -73,7 +73,7 @@ Un algoritmo con estructura lineal/secuencial es como una lista de pasos que se 
 ---
 
 ###    <p align="center"><strong>***Actividades Realizadas en Toda la Unidad:*** </strong></p>
-###    <p align="center"><strong>💻⚙️🔍***APE - Aprendizaje Práctico Experimental***</strong></p>
+###    <p align="center"><strong>💻⚙️***APE - Aprendizaje Práctico Experimental***</strong></p>
 
 ###    1. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo:
 ####   ● Objetivo:  
@@ -106,7 +106,7 @@ Desarrollar habilidades de detección y corrección de errores en algoritmos sec
 
 ---
 
-###    <p align="center"><strong>***AA - Aprendizaje Autónomo***</strong></p>
+###    <p align="center"><strong>🧠💡***AA - Aprendizaje Autónomo***</strong></p>
 ###    1.  Exploración y Uso de Herramientas Digitales Para Pseudocódigo y Diagramas de Flujo:
 ####   ● Objetivo:  
 Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
