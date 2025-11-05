@@ -128,7 +128,7 @@ Las principales dificultades que se me presentaron en esta unidad son: poder apr
 
 
 ###    <p align="center"><strong>***Otros***</strong></p>
-####  💻⚙️ ● Códigos Fuente Realizados en la Unidad 1:
+####  ● 💻 Códigos Fuente Realizados en la Unidad 1:
 ####  [Códigos Fuente](https://drive.google.com/drive/folders/1vq2ZTflq-HLikM670ivG3DuCzUhmWB6c?usp=sharing)
 
 ---
