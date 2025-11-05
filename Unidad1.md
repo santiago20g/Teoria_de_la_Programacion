@@ -66,6 +66,57 @@ https://github.com/user-attachments/assets/047b13cd-b20a-4115-8a0e-1eb14603fda4
 ####   ● ¿Qué son los Algoritmos con estructuras lineales?: 
 Un algoritmo con estructura lineal/secuencial es como una lista de pasos que se ejecutan uno tras otro en el mismo orden en el que están escritos sin saltarse ninguno, por ende cada paso depende del anterior.
 ####   ● Ejemplo: 
+***Para programar en C, se debe poner un nombre cualquiera y agregar la extencion*** `.c`
+
+***Antes de empezar a programar en C, siempre se deben incluir las siguientes librerías***
+
+    #include <stdio.h>
+    
+    #include <string.h>
+
+***Siempre se comienza a programar poniendo*** `int main(){`
+
+    int main(){   
+
+***Se defininen las variables dependiendo de los requerimientos solicitados***
+
+    //Definir Variables
+    
+    float valor1, valor2, valor3 = 0 ;
+    
+***Se solicitan los datos de entrada con*** `printf` ***y estos se leen con*** `scanf`
+
+    //Datos de Entrada
+    
+    printf("Ingrese el primer numero: ");
+    
+    scanf("%f", &valor1);
+    
+    printf("Ingrese el segundo numero: ");
+    
+    scanf("%f", &valor2);
+    
+***Para sumar dos numeros se usa la siguiente estructura:*** `resultado= valorEntrada1 + valorEntrada2`
+
+    //Proceso 
+    
+    valor3 = valor1 + valor2;
+    
+***Para mostrar el dato de salida se usa de nuevo*** `printf`
+
+    //Datos de Salida
+    
+    printf("La suma es: %.f", valor3);
+    
+    return 0;
+    
+    }
+
+***Para compilar el archivo.c se debe usar el siguiente comando en el ejecutor:*** `gcc nombre.c -o nombre`
+
+***Al compilar el archivo.c se crea un archivo.exe y para ejecutar este archivo se usa el siguiente comando:*** `.\nombre.exe`
+
+
 <img width="2655" height="1976" alt="image" src="https://github.com/user-attachments/assets/3a3ae7a2-cf85-4404-b4b8-71dc570f5a26" />
 
 ####  [Más Ejemplos:]( https://drive.google.com/file/d/1cBG1lnwEflu3ryD46wvqN5utzb5_CfOM/view?usp=sharing)
@@ -73,7 +124,7 @@ Un algoritmo con estructura lineal/secuencial es como una lista de pasos que se 
 ---
 
 ###    <p align="center"><strong>***Actividades Realizadas en Toda la Unidad:*** </strong></p>
-###    <p align="center"><strong>💻⚙️***APE - Aprendizaje Práctico Experimental***</strong></p>
+###    <p align="center"><strong>💻***APE - Aprendizaje Práctico Experimental***</strong></p>
 
 ###    1. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo:
 ####   ● Objetivo:  
@@ -106,7 +157,7 @@ Desarrollar habilidades de detección y corrección de errores en algoritmos sec
 
 ---
 
-###    <p align="center"><strong>🧠💡***AA - Aprendizaje Autónomo***</strong></p>
+###    <p align="center"><strong>💡***AA - Aprendizaje Autónomo***</strong></p>
 ###    1.  Exploración y Uso de Herramientas Digitales Para Pseudocódigo y Diagramas de Flujo:
 ####   ● Objetivo:  
 Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
@@ -128,7 +179,7 @@ Las principales dificultades que se me presentaron en esta unidad son: poder apr
 
 
 ###    <p align="center"><strong>***Otros***</strong></p>
-####  ● 💻⚙️ Códigos Fuente Realizados en la Unidad 1:
+####  ● 💻 Códigos Fuente Realizados en la Unidad 1:
 ####  [Códigos Fuente](https://drive.google.com/drive/folders/1vq2ZTflq-HLikM670ivG3DuCzUhmWB6c?usp=sharing)
 
 ---
