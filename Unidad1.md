@@ -7,8 +7,6 @@
 
 
 ###    1. Algoritmos:
-####   ● Objetivo: 
-Comprender cómo elaborar un algoritmo usando pasos claros y de forma ordenada, mejorando el pensamiento lógico y la capacidad de encontrar soluciones a algún prblema determinado.
 ####   ● ¿Qué son los Algoritmos?: 
 Un algoritmo es una secuencia de pasos ordenados de manera lógica y con fin, es decir que en algún momento se termina y que sirven para dar una solución a algún problema determinado.
 ####   ● Ejemplo: 
@@ -21,8 +19,6 @@ Un algoritmo es una secuencia de pasos ordenados de manera lógica y con fin, es
 
 
 ###    2. Pseudocódigos Realizados en PSeInt:
-####   ● Objetivo:
-Aprender a programar en pseudocódigo para mejorar el pensamiento lógico, desarrollar habilidades de razonamiento y planificar soluciones a problemas.
 ####   ● ¿Qué son los Pseudocódigos?: 
 Los pseudocódigos es una forma de escribir instrucciones paso a paso para resolver un problema sin usar un lenguaje de programaciónn de alto nivel, lo que ayuda a organizar las ideas antes de programar por ende ayuda a pensar con claridad, plantear soluciones a problemas y desarrollar habilidades de razonamiento.
 ####   ● Ejemplo: 
@@ -33,8 +29,6 @@ Los pseudocódigos es una forma de escribir instrucciones paso a paso para resol
 
 
 ###    3. Diagramas de Flujo:
-####   ● Objetivo: 
-Desarrollar la habilidad de entender y estructurar diagramas de flujos para organizar pasos de forma clara y ordenada, usando estructuras que muestran los pasos para resolver tareas o tomar decisiones.
 ####   ● ¿Qué son los Diagramas de Flujo?: 
 Un diagrama de flujo o flujograma es como un mapa estructurado que muestra los pasos para realizar una acción, usando figuras y flechas. Cada figura representa una acción o decisión y las flechas indican el camino que se debe seguir, esto sirve para entender mejor una idea o proceso organizando las tareas paso a paso.
 ####   ● Ejemplo: 
@@ -43,8 +37,6 @@ Un diagrama de flujo o flujograma es como un mapa estructurado que muestra los p
 
 
 ###    4. Pruebas de Escritorio:
-####   ● Objetivo:  
-Aprender a revisar paso a paso si una idea funciona correctamente, detectando errores y mejorando la forma en que se resuelven problemas usando las pruebas de escritorio.
 ####   ● ¿Qué son las Pruebas de Escritorio?: 
 Las pruebas de escritorio son para verificar si algo que planteaste sirve, realizando las instrucciones tu mismo, sin usar la computadora.
 ####   ● Ejemplo: 
@@ -55,8 +47,6 @@ Las pruebas de escritorio son para verificar si algo que planteaste sirve, reali
 
 
 ###    5. Programación por Bloques:
-####   ● Objetivo:  
-Comprender como funciona una secuencia de pasos usando la programación por bloques, para poder desarrollar el pensamiento lógico y la capacidad de resolver problemas de forma creativa y simplificada.
 ####   ● ¿Qué es la Programación por Bloques?: 
 La programación por bloques es una forma de crear instrucciones usando piezas que se unen entre si, es decir, en lugar de escribir todo con palabras, se arrastran y juntan bloques que representan acciones. Esto sirve para aprender a programar de manera fácil y visualmente entendiendo como funciona una secuencia de pasos.
 ####   ● Ejemplo: 
@@ -73,8 +63,6 @@ https://github.com/user-attachments/assets/047b13cd-b20a-4115-8a0e-1eb14603fda4
 
 
 ###    6. Algoritmos con estructuras lineales/secuenciales:
-####   ● Objetivo:
-Aprender a usar Visual Studio Code para escribir y probar programas en el lenguaje C, comprendiendo cómo se crean algoritmos con estructuras lineales/secuenciales que hacen funcionar una aplicación o programa. Además, buscamos desarrollar la lógica y el pensamiento ordenado al resolver diferentes problemas con código usando estructuras lineales/secuenciales.
 ####   ● ¿Qué son los Algoritmos con estructuras lineales?: 
 Un algoritmo con estructura lineal/secuencial es como una lista de pasos que se ejecutan uno tras otro en el mismo orden en el que están escritos sin saltarse ninguno, por ende cada paso depende del anterior.
 ####   ● Ejemplo: 
