@@ -73,7 +73,7 @@ Un algoritmo con estructura lineal/secuencial es como una lista de pasos que se 
 ---
 
 ###    <p align="center"><strong>***Actividades Realizadas en Toda la Unidad:*** </strong></p>
-###    <p align="center"><strong>***APE - Aprendizaje Práctico Experimental***</strong></p>
+###    <p align="center"><strong>💻⚙️🔍***APE - Aprendizaje Práctico Experimental***</strong></p>
 
 ###    1. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo:
 ####   ● Objetivo:  
