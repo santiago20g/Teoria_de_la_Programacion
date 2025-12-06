@@ -32,7 +32,7 @@ Si la condición es falsa el programa ejecutará el otro código de bloque dentr
 
 
 ###   🧠 3. Estructura Condicional Múltiple "Switch":
-La condición switch, no evalúa directamente un valor booleano, si no que compara un valor con varias opciones posibles. Según el caso que coincida, ejecuta la acción correspondiente. Si ninguna coincide, se usa un “default” como salida.
+La condición switch, no evalúa directamente un valor booleano, si no que compara un valor con varias opciones posibles. Según el caso que coincida se ejecutará la acción correspondiente. Si ninguna coincide, se usa un “default” como salida.
 ####   ● Código en C: 
 
 
