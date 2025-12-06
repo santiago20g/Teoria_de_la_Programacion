@@ -42,10 +42,11 @@ Dado como dato el sueldo de un trabajador, considera un aumento del 45% si su su
 Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
 
 ####   ● Código en C: 
-<img width="673" height="407" alt="image" src="https://github.com/user-attachments/assets/5a7b4ae9-40c2-4c5f-850d-b83122ab006e" />
+<img width="647" height="422" alt="image" src="https://github.com/user-attachments/assets/1596a35b-c39d-4146-9ee6-ccccd04668fa" />
+
 
 ####   ● Diagrama de Flujo: 
-<img width="1703" height="864" alt="image" src="https://github.com/user-attachments/assets/09bd9be5-1f1a-47da-ad11-580e3e54d088" />
+<img width="1400" height="950" alt="image" src="https://github.com/user-attachments/assets/761d55f7-d2c3-482c-8687-5246d44930d6" />
 
 
 
