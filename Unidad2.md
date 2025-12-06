@@ -94,15 +94,15 @@
 
 ##    💻 ***APE - Aprendizaje Práctico Experimental***
 
-###    1. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo: 
+###    1. Aplicación de estructuras condicionales en la resolución de problemas: 
 ####   ● Link de la Actividad: 
-####  [Actividad APE 1](https://drive.google.com/file/d/1gTUPK-DCqlx4yilsj48_COZmy_HMS4ql/view?usp=sharing)
+####  [Actividad APE 1](https://drive.google.com/file/d/1Y4V9PSsYq6DKEvUWAGiUTZtGriKbiVRc/view?usp=sharing)
 
 
 
-###    2. Del Diseño del Algoritmo con Estructuras Secuenciales a la Construcción del Programa: 
+###    2. Aplicación de estructuras repetitivas en la resolución de problemas: 
 ####   ● Link de la Actividad: 
-####  [Actividad APE 2](https://drive.google.com/file/d/1az3psHxNKFRZoLhOaPKD6FGnFVDiAKwu/view?usp=sharing)
+####  [Actividad APE 2](https://drive.google.com/file/d/1lj5ecMkqP5JNjuHGO_9MepNU08-H8EYE/view?usp=sharing)
 
 
 
@@ -111,13 +111,13 @@
 
 ##    💡***AA - Aprendizaje Autónomo***
 
-###    1.  Exploración y Uso de Herramientas Digitales Para Pseudocódigo y Diagramas de Flujo:
+###    1. Diferencias entre los tipos de estructuras condicionales :
 ####   ● Link de la Actividad:
-####  [Actividad AA 1](https://drive.google.com/file/d/1vMAriyU_HHd7WvFAuLXaUs3QfQGMwgXW/view?usp=sharing)
+####  [Actividad AA 1](https://drive.google.com/file/d/1pg4PMEiDRICXJg00HwWPgJk3HpmO1KwT/view?usp=sharing)
 
-###    2.   Revisión de Tutoriales Oficiales de Instalación de Lenguajes de Programación (C, Python o Java):
+###    2. Cuadro Comparativo Entre las Estructuras Repetitivas :
 ####   ● Link de la Actividad: 
-####  [Actividad AA 2](https://drive.google.com/file/d/14FDy1J-bC7IHWq7mQKCvUivUkX1hMe5U/view?usp=sharing)
+####  [Actividad AA 2](https://drive.google.com/file/d/1yzUdAVjJALTYK6g7vgDpYGvxP63yFMRq/view?usp=sharing)
 
 ---
 ---
