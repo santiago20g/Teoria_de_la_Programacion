@@ -40,7 +40,7 @@
 
 ##    ***Estructuras Repetitivas:*** 
 
-###   🧮 1. Estructura Condicional Simple "If":
+###   🧮 1. Estructura Repetitiva "While":
 ####   ● ¿Qué es? y ¿Cómo Funciona?: 
 
 ####   ● Código en C:
@@ -50,7 +50,7 @@
 
 
 
-###   🔄 2. Estructura Condicional Doble "If-Else":
+###   🔄 2. Estructura Repetitiva "Do-While":
 ####   ● ¿Qué es? y ¿Cómo Funciona?:  
 
 ####   ● Código en C: 
@@ -61,7 +61,7 @@
 
 
 
-###   🧠 3. Estructura Condicional Múltiple "Switch":
+###   🧠 3. Estructura Repetitiva "For":
 ####   ● ¿Qué es? y ¿Cómo Funciona?:
 
 ####   ● Código en C: 
@@ -92,7 +92,7 @@
 ---
 ##    <p align="center"><strong>***Actividades Realizadas en Toda la Unidad:*** </strong></p>
 
-##    💻***APE - Aprendizaje Práctico Experimental***
+##    💻 ***APE - Aprendizaje Práctico Experimental***
 
 ###    1. Primer Acercamiento a la Construcción de Algoritmos con Estructuras Secuenciales en Pseudocódigo: 
 ####   ● Link de la Actividad: 
@@ -109,7 +109,7 @@
 
 ---
 
-##    ***AA - Aprendizaje Autónomo***
+##    💡***AA - Aprendizaje Autónomo***
 
 ###    1.  Exploración y Uso de Herramientas Digitales Para Pseudocódigo y Diagramas de Flujo:
 ####   ● Link de la Actividad:
