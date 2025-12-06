@@ -23,6 +23,8 @@ Si los dos numeros son iguales muestra: Los números son iguales.
 <img width="705" height="555" alt="image" src="https://github.com/user-attachments/assets/bf221b66-6434-4b8a-9dc7-ada06882922e" />
 
 ####   ● Diagrama de Flujo:
+<img width="933" height="976" alt="image" src="https://github.com/user-attachments/assets/06edb725-84f5-49e6-9861-ff69df1b51ad" />
+
 
 
 
@@ -43,6 +45,7 @@ Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
 <img width="673" height="407" alt="image" src="https://github.com/user-attachments/assets/5a7b4ae9-40c2-4c5f-850d-b83122ab006e" />
 
 ####   ● Diagrama de Flujo: 
+<img width="1703" height="864" alt="image" src="https://github.com/user-attachments/assets/09bd9be5-1f1a-47da-ad11-580e3e54d088" />
 
 
 
@@ -57,6 +60,7 @@ Se desea diseñar un algoritmo que escriba los nombres de los días de la semana
 <img width="802" height="928" alt="image" src="https://github.com/user-attachments/assets/2cf37bcb-e334-4cd3-b4a8-d20f35ee4498" />
 
 ####   ● Diagrama de Flujo: 
+<img width="1507" height="548" alt="image" src="https://github.com/user-attachments/assets/1b0ed12b-4eed-4a4c-8f42-5557f0a4504b" />
 
 
 
@@ -79,6 +83,7 @@ Este código lee números positivos ingresados hasta que se ingresa un número i
 
 
 ####   ● Diagrama de Flujo:
+<img width="979" height="955" alt="image" src="https://github.com/user-attachments/assets/c480a0a1-d8c2-4a2d-bb6c-ccf887288777" />
 
 
 
@@ -96,6 +101,7 @@ Este código lee números positivos ingresados hasta que se ingresa un número i
 
 
 ####   ● Diagrama de Flujo: 
+<img width="1156" height="972" alt="image" src="https://github.com/user-attachments/assets/8e70f3c4-f796-4098-9003-f8814b86043e" />
 
 
 
@@ -111,6 +117,7 @@ Este código muestra los numeros del 1 al 10 y al revés, es decir del 10 al 1.
 
 
 ####   ● Diagrama de Flujo: 
+<img width="1286" height="960" alt="image" src="https://github.com/user-attachments/assets/45db870b-7d73-4cf5-9067-ebeb4945a767" />
 
 
 
@@ -128,6 +135,7 @@ Los datos de entrada son: el numerdador y el denominador.
 Los datos de salida son: el cociente.
 
 ####   ● Diagrama de flujo simplificado:
+<img width="1344" height="972" alt="image" src="https://github.com/user-attachments/assets/5882cfe4-61d3-4d6c-b759-65ff89ed0273" />
 
 ####   ● Programa en Java:
 <img width="1000" height="640" alt="image" src="https://github.com/user-attachments/assets/315e9d1f-8ba3-40fd-8662-264a3231982f" />
