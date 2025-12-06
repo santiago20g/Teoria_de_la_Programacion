@@ -90,7 +90,7 @@ La estructura repetitiva for, sirve para repetir una acción un número conocido
 ##    ***Ejercicio Combinando Estructuras Condicionales y Repetitivas en Java*** 
 ###   🧮 1. Estructura Combinando "If y Do-While":
 ####   ● Descripción del problema: 
-El problema es sincillo, hay que realizar una caculadora solo para dividir valores, pero teniendo en cuenta que no se puede dividir para cero.
+El problema es sencillo, hay que realizar una calculadora solo para dividir valores, pero teniendo en cuenta que no se puede dividir para cero.
 
 Los datos de entrada son: el numerdador y el denominador.
 
@@ -98,9 +98,9 @@ Los datos de salida son: el cociente.
 
 ####   ● Diagrama de flujo simplificado:
 
-####   ● Programa:
+####   ● Programa en Java:
 
-####   ● Verificación :
+####   ● Verificación:
 
 
 
