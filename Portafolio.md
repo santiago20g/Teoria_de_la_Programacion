@@ -46,6 +46,9 @@ Link de la Unidad 1:
 
 [3]   K. S. Kaswan, J. S. Dhatterwal, and B. Balamurugan, Python for Beginners. Boca Raton: Chapman and Hall/CRC, 2023. doi: 10.1201/9781003202035. 
 
+[4]   M. A. Moreno Flores, “Lenguaje de Programación C Sharp”, thesis, Universidad 
+Nacional de Educación, Lima, Perú, 2022. 
+
 ---
 
 ### 🤖 ***Uso de la IA Generativa***  
