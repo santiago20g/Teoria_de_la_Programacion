@@ -90,7 +90,9 @@ Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecuta
 Este código lee números positivos ingresados hasta que se ingresa un número igual o inferior a cero
 
 ####   ● Código en C: 
-<img width="805" height="399" alt="image" src="https://github.com/user-attachments/assets/02c609e3-b0e9-4306-92f7-8118e1ba5ab0" />
+<img width="752" height="456" alt="image" src="https://github.com/user-attachments/assets/8556c457-d937-4ce2-a27c-c14ef9a7d76c" />
+
+
 
 
 ####   ● Diagrama de Flujo: 
@@ -102,7 +104,7 @@ Este código lee números positivos ingresados hasta que se ingresa un número i
 La estructura repetitiva for, sirve para repetir una acción un número conocido de veces, la condición se analiza al principio antes de volver a realizar la acción, y deja de ejecutarse cuando el contador llega al límite puesto.
 
 ####   ● Ejemplo:
-
+Este código muestra los numeros del 1 al 10 y al revés, es decir del 10 al 1
 
 ####   ● Código en C: 
 <img width="568" height="457" alt="image" src="https://github.com/user-attachments/assets/77d8af35-bb61-4360-8a36-5cd8104cb958" />
