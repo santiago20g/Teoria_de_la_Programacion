@@ -109,7 +109,7 @@
 
 ---
 
-##    AA - Aprendizaje Autónomo***
+##    ***AA - Aprendizaje Autónomo***
 
 ###    1.  Exploración y Uso de Herramientas Digitales Para Pseudocódigo y Diagramas de Flujo:
 ####   ● Link de la Actividad:
