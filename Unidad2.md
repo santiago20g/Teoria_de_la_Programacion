@@ -135,11 +135,12 @@ Los datos de entrada son: el numerdador y el denominador.
 
 Los datos de salida son: el cociente.
 
-####   ● Diagrama de flujo simplificado:
-<img width="1344" height="972" alt="image" src="https://github.com/user-attachments/assets/5882cfe4-61d3-4d6c-b759-65ff89ed0273" />
-
 ####   ● Programa en Java:
 <img width="1000" height="640" alt="image" src="https://github.com/user-attachments/assets/315e9d1f-8ba3-40fd-8662-264a3231982f" />
+
+####   ● Diagrama de flujo simplificado:
+<img width="1264" height="853" alt="image" src="https://github.com/user-attachments/assets/eee13883-17fb-46dc-8486-9ebe96c7893c" />
+
 
 ####   ● Verificación:
 <img width="497" height="221" alt="image" src="https://github.com/user-attachments/assets/89ba01e0-68db-4e9a-8b1b-e474a4303a25" />
@@ -182,23 +183,29 @@ Los datos de salida son: el cociente.
 ---
 
 ##   ***Principales dificultades en la aplicación de los contenidos***
-Las principales dificultades que se me presentaron en esta unidad son: poder aprenderme el nombre de los tipos de datos que se pueden usar al programar como por ejemplo: para que sirve y en que momento usar el Int, float, double, char, long; además algo que se me complico fue aprender a como usar las máscaras las cuales son: %i, %d, %c, %s, %(número)s, %%, %(número1).(número2)f y por último se me complico aprender la linea de código que se usa para poder compilar el código fuente y asi poder obtener el archivo ejecutable.
+Las principales dificultades que se me presentaron en esta unidad son: en primer luagar no saber exactamente cuando usar un while, un do-while, ya que esos 2 son muy parecidos, tambien se me dficulta un poco usar el for. Además de eso se me complica un poco aprender bien el funcionamiento de los acumuladores y los contadores, fuera de eso, ya se comom usar los if, if-else y swtich, esos 3 son relativamente faciles de aplicarlos en mis códigos diarios.
+
 
 ---
 ---
 
 ##    ***Reflexiones y Conclusiones***
 ###   ● Conclusiones:
-Al usar pseudocódigo podemos entender cómo funciona un programa antes de escribir código real (Python, C, Java, etc..), este permite organizar las ideas y planificar los pasos para resolver un problema de manera clara y sin tantas complicaciones y asi poder desarrolar nuestro pensamiento logico y matemático.
+Gracias a las condicionales los códigos se ven mas claros y faciles de usar, porque se pueden organizar las diferentes opciones de manera clara. Gracias a esto los programas pueden funcionar de forma correcta en cada caso sin necesidad de repetir instrucciones.
 
-Al programar en C dentro de Visual Studio Code permite poner en práctica los conocimientos aprendidos en PSeInt y ver cómo funcionan los programas reales usando algoritmos con estructuras lineales en un lenguaje de programacion de alto nivel como lo es "C".
+Al concluir esta unidad nos dimos cuenta que gracais a los bucles podemos repetir acciones muchas veces sin tener que escribirlas una por una. Esto nos ahorra mucho tiempo y hace que el programa sea más corto y eficiente. 
 
-###   ● Reflexiones:
-Usar pseudocódigo ayuda a pensar con orden y lógica. Es una herramienta que enseña a razonar paso a paso, lo cual es muy útil para aprender a programar correctamente, no obstante la programacion por bloques tambies es muy importante para los estudiantes antes de adentrarse a la verdadera programacion usando un lenguaje de alto nivel.
+Gracias a los acumuladores podemos sumar valores dentro de un ciclo y gracias a los contadores podemos llevar la cuenta de cuantas veces ocuurre algo dentro de cada ciclo.
 
-Es muy importante aprender a programar algoritmos con estructuras lineales usando el lenguaje de programación de alto nivel C, este lenguaje nos ayudará a comprender la base de la programación. 
 
-Con Visual Studio Code, se puede aprender de forma práctica y entender mejor cómo la computadora compila el lenguaje humano a lenguaje maquina para poder resolver problemas complejos.
+###   ● Reflexión crítica:
+
+Las condiciones son útiles para que el programa decida qué hacer, pero si se usan demasiado pueden volver el código confuso y difícil de seguir, es mejor aprender a organizarlos bien, porque un exceso de condiciones puede complicar más que ayudar.
+
+Los ciclos ahorran trabajo al repetir acciones, pero si no se usan bien el ciclo puede quedar en un bucle infinito y asi nunca podría terminar de ejecutarse. Usarlos sin tener claro lo que se necesita puede hacer que el programa sea lento o haga cosas innecesarias y asi gastar memoria innecesaria.
+
+Los acumuladores son muy necesarios y básicos para sumar o contar dentro de un ciclo, pero si no se inicializan o se manejan de manera adecuada, los resultados pueden ser incorrectos. Aunque parecen simples, son clave para que el programa lleve un buen control de las veces que se repite algo.
+
 
 ---
 
