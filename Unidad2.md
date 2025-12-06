@@ -5,8 +5,9 @@
 
 ##    ***Estructuras condicionales:*** 
 ###   🧮 1. Estructura Condicional Simple "If":
-####   ● ¿Qué es? y ¿Cómo Funciona?: 
-
+La condición if, es una instrucción condicional que evalúa una expresión booleana.
+Si la condición es verdadera se ejecuta el bloque de código dentro del if.
+Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción.
 ####   ● Código en C:
 
 
@@ -15,8 +16,9 @@
 
 
 ###   🔄 2. Estructura Condicional Doble "If-Else":
-####   ● ¿Qué es? y ¿Cómo Funciona?:  
-
+La condición if-else, es una instrucción condicional que evalúa una expresión booleana.
+Si la condición es verdadera se ejecuta el bloque de código dentro del if.
+Si la condición es falsa el programa ejecutará el otro código de bloque dentro del else, esto asegura que siempre haya una acción, sin dejar el programa en blanco.
 ####   ● Código en C: 
 
 
@@ -26,8 +28,7 @@
 
 
 ###   🧠 3. Estructura Condicional Múltiple "Switch":
-####   ● ¿Qué es? y ¿Cómo Funciona?:
-
+La condición switch, no evalúa directamente un valor booleano, si no que compara un valor con varias opciones posibles. Según el caso que coincida, ejecuta la acción correspondiente. Si ninguna coincide, se usa un “default” como salida.
 ####   ● Código en C: 
 
 
@@ -41,8 +42,8 @@
 ##    ***Estructuras Repetitivas:*** 
 
 ###   🧮 1. Estructura Repetitiva "While":
-####   ● ¿Qué es? y ¿Cómo Funciona?: 
-
+La estructura repetitiva while, sirve para repetir una acción un número desconocido de veces, pero esta acción depende de una condición, la condición se analiza al principio y después se ejecutará la acción si es verdadera.
+Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
 ####   ● Código en C:
 
 
@@ -51,8 +52,8 @@
 
 
 ###   🔄 2. Estructura Repetitiva "Do-While":
-####   ● ¿Qué es? y ¿Cómo Funciona?:  
-
+La estructura repetitiva do-while, sirve para repetir una acción un número desconocido de veces, la condición se analiza al final, y la acción se ejecutará al menos una vez sin tener en cuenta la condición inicial, una vez ejecutada la accion se valida la condición, si la condicón es verdadera se seguirá ejecutando.
+Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
 ####   ● Código en C: 
 
 
@@ -62,8 +63,7 @@
 
 
 ###   🧠 3. Estructura Repetitiva "For":
-####   ● ¿Qué es? y ¿Cómo Funciona?:
-
+La estructura repetitiva for, sirve para repetir una acción un número conocido de veces, la condición se analiza al principio antes de volver a realizar la acción, y deja de ejecutarse cuando el contador llega al límite puesto.
 ####   ● Código en C: 
 
 
