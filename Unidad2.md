@@ -10,10 +10,12 @@ La condición if, es una instrucción condicional que evalúa una expresión boo
 Si la condición es verdadera se ejecuta el bloque de código dentro del if.
 
 Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción.
+
 ####   ● Código en C:
 
 
 ####   ● Diagrama de Flujo:
+
 
 
 
@@ -23,6 +25,7 @@ La condición if-else, es una instrucción condicional que evalúa una expresió
 Si la condición es verdadera se ejecuta el bloque de código dentro del if.
 
 Si la condición es falsa el programa ejecutará el otro código de bloque dentro del else, esto asegura que siempre haya una acción, sin dejar el programa en blanco.
+
 ####   ● Código en C: 
 
 
@@ -33,6 +36,7 @@ Si la condición es falsa el programa ejecutará el otro código de bloque dentr
 
 ###   🧠 3. Estructura Condicional Múltiple "Switch":
 La condición switch, no evalúa directamente un valor booleano, si no que compara un valor con varias opciones posibles. Según el caso que coincida se ejecutará la acción correspondiente. Si ninguna coincide, se usa un “default” como salida.
+
 ####   ● Código en C: 
 
 
@@ -49,6 +53,7 @@ La condición switch, no evalúa directamente un valor booleano, si no que compa
 La estructura repetitiva while, sirve para repetir una acción un número desconocido de veces, pero esta acción depende de una condición, la condición se analiza al principio y después se ejecutará la acción si es verdadera.
 
 Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
+
 ####   ● Código en C:
 
 
@@ -57,8 +62,9 @@ Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecuta
 
 
 ###   🔄 2. Estructura Repetitiva "Do-While":
-La estructura repetitiva do-while, sirve para repetir una acción un número desconocido de veces, la condición se analiza al final, y la acción se ejecutará al menos una vez sin tener en cuenta la condición inicial, una vez ejecutada la accion se valida la condición, si la condicón es verdadera se seguirá ejecutando.
+La estructura repetitiva do-while, sirve para repetir una acción un número desconocido de veces, la condición se analiza al final, y la acción se ejecutará al menos una vez sin tener en cuenta la condición inicial, una vez ejecutada la acción se valida la condición, si la condicón es verdadera se seguirá ejecutando.
 Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
+
 ####   ● Código en C: 
 
 
@@ -69,6 +75,7 @@ Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecuta
 
 ###   🧠 3. Estructura Repetitiva "For":
 La estructura repetitiva for, sirve para repetir una acción un número conocido de veces, la condición se analiza al principio antes de volver a realizar la acción, y deja de ejecutarse cuando el contador llega al límite puesto.
+
 ####   ● Código en C: 
 
 
@@ -80,9 +87,14 @@ La estructura repetitiva for, sirve para repetir una acción un número conocido
 
 
 
-##    ***Ejercicio Combinando Estructuras Condicionales y Repetitivas*** 
+##    ***Ejercicio Combinando Estructuras Condicionales y Repetitivas en Java*** 
 ###   🧮 1. Estructura Combinando "If y Do-While":
 ####   ● Descripción del problema: 
+El problema es sincillo, hay que realizar una caculadora solo para dividir valores, pero teniendo en cuenta que no se puede dividir para cero.
+
+Los datos de entrada son: el numerdador y el denominador.
+
+Los datos de salida son: el cociente.
 
 ####   ● Diagrama de flujo simplificado:
 
