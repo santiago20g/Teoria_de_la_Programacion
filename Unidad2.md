@@ -11,13 +11,13 @@ Si la condición es verdadera se ejecuta el bloque de código dentro del if.
 
 Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción.
 ####   ● Ejemplo:
-Este código simplemente analiza dos números ingresados
+Este código simplemente analiza dos números ingresados.
 
-Si el número uno es mayor muestra: El primer número es el mayor
+Si el número uno es mayor muestra: El primer número es el mayor.
 
-Si el número dos es el mayor muestra: El segundo número es el mayor
+Si el número dos es el mayor muestra: El segundo número es el mayor.
 
-Si los dos numeros son iguales muestra: Los números son iguales
+Si los dos numeros son iguales muestra: Los números son iguales.
 
 ####   ● Código en C:
 <img width="705" height="555" alt="image" src="https://github.com/user-attachments/assets/bf221b66-6434-4b8a-9dc7-ada06882922e" />
@@ -71,7 +71,7 @@ La estructura repetitiva while, sirve para repetir una acción un número descon
 Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
 
 ####   ● Ejemplo:
-Este código lee números positivos ingresados hasta que se ingresa un número igual o inferior a cero
+Este código lee números positivos ingresados hasta que se ingresa un número igual o inferior a cero.
 
 ####   ● Código en C:
 <img width="777" height="431" alt="image" src="https://github.com/user-attachments/assets/b372f270-04e8-4aa3-b12e-1da769df680b" />
@@ -87,7 +87,7 @@ La estructura repetitiva do-while, sirve para repetir una acción un número des
 Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
 
 ####   ● Ejemplo:
-Este código lee números positivos ingresados hasta que se ingresa un número igual o inferior a cero
+Este código lee números positivos ingresados hasta que se ingresa un número igual o inferior a cero.
 
 ####   ● Código en C: 
 <img width="752" height="456" alt="image" src="https://github.com/user-attachments/assets/8556c457-d937-4ce2-a27c-c14ef9a7d76c" />
@@ -104,7 +104,7 @@ Este código lee números positivos ingresados hasta que se ingresa un número i
 La estructura repetitiva for, sirve para repetir una acción un número conocido de veces, la condición se analiza al principio antes de volver a realizar la acción, y deja de ejecutarse cuando el contador llega al límite puesto.
 
 ####   ● Ejemplo:
-Este código muestra los numeros del 1 al 10 y al revés, es decir del 10 al 1
+Este código muestra los numeros del 1 al 10 y al revés, es decir del 10 al 1.
 
 ####   ● Código en C: 
 <img width="568" height="457" alt="image" src="https://github.com/user-attachments/assets/77d8af35-bb61-4360-8a36-5cd8104cb958" />
