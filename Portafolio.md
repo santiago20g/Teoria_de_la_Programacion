@@ -15,14 +15,14 @@ Elaborar un Portafolio Digital que registre y organice las actividades de todo e
 ---
 
 ### 🧩 ***Unidad 1***
-📖 Conceptos básicos, pseudocódigo, diagrmas de flujo, pruebas de escritorio, algoritmos con estructuras lineales.  
+📖 Conceptos básicos, pseudocódigo, diagrmas de flujo, pruebas de escritorio, algoritmos con estructuras lineales.    
 Link de la Unidad 1:
 [Unidad 1](Unidad1.md)
 
 ---
 
 ### ⚙️ ***Unidad 2***  
-🧠 Desarrollo modular de programas mediante funciones y procedimientos usando estructuras condiconales y estructuras repetitivas en los lenguajes de alto nivel: "C, Java y Python".
+🧠 Desarrollo modular de programas mediante funciones y procedimientos usando estructuras condiconales y estructuras repetitivas en los lenguajes de alto nivel: "C, Java y Python".    
 Link de la Unidad 2:
 [Unidad 2](Unidad2.md)
 
