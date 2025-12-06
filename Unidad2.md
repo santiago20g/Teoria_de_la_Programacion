@@ -12,7 +12,7 @@ Si la condición es verdadera se ejecuta el bloque de código dentro del if.
 Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción.
 
 ####   ● Código en C:
-
+<img width="705" height="555" alt="image" src="https://github.com/user-attachments/assets/bf221b66-6434-4b8a-9dc7-ada06882922e" />
 
 ####   ● Diagrama de Flujo:
 
@@ -27,7 +27,7 @@ Si la condición es verdadera se ejecuta el bloque de código dentro del if.
 Si la condición es falsa el programa ejecutará el otro código de bloque dentro del else, esto asegura que siempre haya una acción, sin dejar el programa en blanco.
 
 ####   ● Código en C: 
-
+<img width="673" height="407" alt="image" src="https://github.com/user-attachments/assets/5a7b4ae9-40c2-4c5f-850d-b83122ab006e" />
 
 ####   ● Diagrama de Flujo: 
 
@@ -38,7 +38,7 @@ Si la condición es falsa el programa ejecutará el otro código de bloque dentr
 La condición switch, no evalúa directamente un valor booleano, si no que compara un valor con varias opciones posibles. Según el caso que coincida se ejecutará la acción correspondiente. Si ninguna coincide, se usa un “default” como salida.
 
 ####   ● Código en C: 
-
+<img width="802" height="928" alt="image" src="https://github.com/user-attachments/assets/2cf37bcb-e334-4cd3-b4a8-d20f35ee4498" />
 
 ####   ● Diagrama de Flujo: 
 
@@ -55,7 +55,7 @@ La estructura repetitiva while, sirve para repetir una acción un número descon
 Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
 
 ####   ● Código en C:
-
+<img width="698" height="477" alt="image" src="https://github.com/user-attachments/assets/f1d5559e-ecbd-4345-b7f9-ba6cdb4ca959" />
 
 ####   ● Diagrama de Flujo:
 
@@ -66,7 +66,7 @@ La estructura repetitiva do-while, sirve para repetir una acción un número des
 Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
 
 ####   ● Código en C: 
-
+<img width="747" height="411" alt="image" src="https://github.com/user-attachments/assets/fa937396-24e1-4d47-a4e0-5392d9ddb2da" />
 
 ####   ● Diagrama de Flujo: 
 
@@ -77,6 +77,7 @@ Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecuta
 La estructura repetitiva for, sirve para repetir una acción un número conocido de veces, la condición se analiza al principio antes de volver a realizar la acción, y deja de ejecutarse cuando el contador llega al límite puesto.
 
 ####   ● Código en C: 
+<img width="568" height="457" alt="image" src="https://github.com/user-attachments/assets/77d8af35-bb61-4360-8a36-5cd8104cb958" />
 
 
 ####   ● Diagrama de Flujo: 
@@ -99,8 +100,10 @@ Los datos de salida son: el cociente.
 ####   ● Diagrama de flujo simplificado:
 
 ####   ● Programa en Java:
+<img width="1000" height="640" alt="image" src="https://github.com/user-attachments/assets/315e9d1f-8ba3-40fd-8662-264a3231982f" />
 
 ####   ● Verificación:
+<img width="497" height="221" alt="image" src="https://github.com/user-attachments/assets/89ba01e0-68db-4e9a-8b1b-e474a4303a25" />
 
 
 
