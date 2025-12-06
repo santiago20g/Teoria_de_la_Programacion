@@ -5,11 +5,7 @@
 
 ##    ***Estructuras condicionales:*** 
 ###   🧮 1. Estructura Condicional Simple "If":
-La condición if, es una instrucción condicional que evalúa una expresión booleana.
-
-Si la condición es verdadera se ejecuta el bloque de código dentro del if.
-
-Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción.
+La condición if, es una instrucción condicional que evalúa una expresión booleana. Si la condición es verdadera se ejecuta el bloque de código dentro del if. Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción [4].
 ####   ● Ejemplo:
 Este código simplemente analiza dos números ingresados.
 
@@ -30,11 +26,7 @@ Si los dos numeros son iguales muestra: Los números son iguales.
 
 
 ###   🔄 2. Estructura Condicional Doble "If-Else":
-La condición if-else, es una instrucción condicional que evalúa una expresión booleana.
-
-Si la condición es verdadera se ejecuta el bloque de código dentro del if.
-
-Si la condición es falsa el programa ejecutará el otro código de bloque dentro del else, esto asegura que siempre haya una acción, sin dejar el programa en blanco.
+La condición if-else, es una instrucción condicional que evalúa una expresión booleana. Si la condición es verdadera se ejecuta el bloque de código dentro del if. Si la condición es falsa el programa ejecutará el otro código de bloque dentro del else, esto asegura que siempre haya una acción, sin dejar el programa en blanco [4].
 
 ####   ● Ejemplo:
 Dado como dato el sueldo de un trabajador, considera un aumento del 45% si su sueldo es inferior a 1000, de lo contrario realiza un descuento del 10%. 
@@ -52,7 +44,7 @@ Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
 
 
 ###   🧠 3. Estructura Condicional Múltiple "Switch":
-La condición switch, no evalúa directamente un valor booleano, si no que compara un valor con varias opciones posibles. Según el caso que coincida se ejecutará la acción correspondiente. Si ninguna coincide, se usa un “default” como salida.
+La condición switch, no evalúa directamente un valor booleano, si no que compara un valor con varias opciones posibles. Según el caso que coincida se ejecutará la acción correspondiente. Si ninguna coincide, se usa un “default” como salida [4].
 
 ####   ● Ejemplo:
 Se desea diseñar un algoritmo que escriba los nombres de los días de la semana en función del valor de una variable dia introducida por teclado.
@@ -71,9 +63,7 @@ Se desea diseñar un algoritmo que escriba los nombres de los días de la semana
 ##    ***Estructuras Repetitivas:*** 
 
 ###   🧮 1. Estructura Repetitiva "While":
-La estructura repetitiva while, sirve para repetir una acción un número desconocido de veces, pero esta acción depende de una condición, la condición se analiza al principio y después se ejecutará la acción si es verdadera.
-
-Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
+La estructura repetitiva while, sirve para repetir una acción un número desconocido de veces, pero esta acción depende de una condición, la condición se analiza al principio y después se ejecutará la acción si es verdadera. Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa [4].
 
 ####   ● Ejemplo:
 Este código lee números positivos ingresados hasta que se ingresa un número igual o inferior a cero.
@@ -90,7 +80,7 @@ Este código lee números positivos ingresados hasta que se ingresa un número i
 
 ###   🔄 2. Estructura Repetitiva "Do-While":
 La estructura repetitiva do-while, sirve para repetir una acción un número desconocido de veces, la condición se analiza al final, y la acción se ejecutará al menos una vez sin tener en cuenta la condición inicial, una vez ejecutada la acción se valida la condición, si la condicón es verdadera se seguirá ejecutando.
-Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
+Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa [4].
 
 ####   ● Ejemplo:
 Este código lee números positivos ingresados hasta que se ingresa un número igual o inferior a cero.
@@ -108,7 +98,7 @@ Este código lee números positivos ingresados hasta que se ingresa un número i
 
 
 ###   🧠 3. Estructura Repetitiva "For":
-La estructura repetitiva for, sirve para repetir una acción un número conocido de veces, la condición se analiza al principio antes de volver a realizar la acción, y deja de ejecutarse cuando el contador llega al límite puesto.
+La estructura repetitiva for, sirve para repetir una acción un número conocido de veces, la condición se analiza al principio antes de volver a realizar la acción, y deja de ejecutarse cuando el contador llega al límite puesto [4].
 
 ####   ● Ejemplo:
 Este código muestra los numeros del 1 al 10 y al revés, es decir del 10 al 1.
