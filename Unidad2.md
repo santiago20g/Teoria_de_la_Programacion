@@ -10,6 +10,14 @@ La condición if, es una instrucción condicional que evalúa una expresión boo
 Si la condición es verdadera se ejecuta el bloque de código dentro del if.
 
 Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción.
+####   ● Ejemplo:
+Este código simplemente analiza dos números ingresados
+
+Si el número uno es mayor muestra: El primer número es el mayor
+
+Si el número dos es el mayor muestra: El segundo número es el mayor
+
+Si los dos numeros son iguales muestra: Los números son iguales
 
 ####   ● Código en C:
 <img width="705" height="555" alt="image" src="https://github.com/user-attachments/assets/bf221b66-6434-4b8a-9dc7-ada06882922e" />
@@ -26,6 +34,11 @@ Si la condición es verdadera se ejecuta el bloque de código dentro del if.
 
 Si la condición es falsa el programa ejecutará el otro código de bloque dentro del else, esto asegura que siempre haya una acción, sin dejar el programa en blanco.
 
+####   ● Ejemplo:
+Dado como dato el sueldo de un trabajador, considera un aumento del 45% si su sueldo es inferior a 1000, de lo contrario realiza un descuento del 10%. 
+
+Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
+
 ####   ● Código en C: 
 <img width="673" height="407" alt="image" src="https://github.com/user-attachments/assets/5a7b4ae9-40c2-4c5f-850d-b83122ab006e" />
 
@@ -36,6 +49,9 @@ Si la condición es falsa el programa ejecutará el otro código de bloque dentr
 
 ###   🧠 3. Estructura Condicional Múltiple "Switch":
 La condición switch, no evalúa directamente un valor booleano, si no que compara un valor con varias opciones posibles. Según el caso que coincida se ejecutará la acción correspondiente. Si ninguna coincide, se usa un “default” como salida.
+
+####   ● Ejemplo:
+Se desea diseñar un algoritmo que escriba los nombres de los días de la semana en función del valor de una variable dia introducida por teclado.
 
 ####   ● Código en C: 
 <img width="802" height="928" alt="image" src="https://github.com/user-attachments/assets/2cf37bcb-e334-4cd3-b4a8-d20f35ee4498" />
@@ -54,8 +70,13 @@ La estructura repetitiva while, sirve para repetir una acción un número descon
 
 Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
 
+####   ● Ejemplo:
+Este código lee números positivos ingresados hasta que se ingresa un número igual o inferior a cero
+
 ####   ● Código en C:
-<img width="698" height="477" alt="image" src="https://github.com/user-attachments/assets/f1d5559e-ecbd-4345-b7f9-ba6cdb4ca959" />
+<img width="777" height="431" alt="image" src="https://github.com/user-attachments/assets/b372f270-04e8-4aa3-b12e-1da769df680b" />
+
+
 
 ####   ● Diagrama de Flujo:
 
@@ -65,8 +86,12 @@ Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecuta
 La estructura repetitiva do-while, sirve para repetir una acción un número desconocido de veces, la condición se analiza al final, y la acción se ejecutará al menos una vez sin tener en cuenta la condición inicial, una vez ejecutada la acción se valida la condición, si la condicón es verdadera se seguirá ejecutando.
 Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa.
 
+####   ● Ejemplo:
+Este código lee números positivos ingresados hasta que se ingresa un número igual o inferior a cero
+
 ####   ● Código en C: 
-<img width="747" height="411" alt="image" src="https://github.com/user-attachments/assets/fa937396-24e1-4d47-a4e0-5392d9ddb2da" />
+<img width="805" height="399" alt="image" src="https://github.com/user-attachments/assets/02c609e3-b0e9-4306-92f7-8118e1ba5ab0" />
+
 
 ####   ● Diagrama de Flujo: 
 
@@ -75,6 +100,9 @@ Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecuta
 
 ###   🧠 3. Estructura Repetitiva "For":
 La estructura repetitiva for, sirve para repetir una acción un número conocido de veces, la condición se analiza al principio antes de volver a realizar la acción, y deja de ejecutarse cuando el contador llega al límite puesto.
+
+####   ● Ejemplo:
+
 
 ####   ● Código en C: 
 <img width="568" height="457" alt="image" src="https://github.com/user-attachments/assets/77d8af35-bb61-4360-8a36-5cd8104cb958" />
