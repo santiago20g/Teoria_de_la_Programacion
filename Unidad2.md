@@ -119,7 +119,8 @@ Este código muestra los numeros del 1 al 10 y al revés, es decir del 10 al 1.
 
 ##    ☕ ***Ejercicio Combinando Estructuras Condicionales y Repetitivas en Java*** 
 ###   🟢 1. Estructura Combinando "If y Do-While":
-💡 Descripción: Calculadora que divide valores, evitando dividir entre cero.
+####  💡 Descripción: 
+Calculadora que divide valores, evitando dividir entre cero.
 
 - ⚡Los datos de entrada son: `"El numerdador y el denominador"`
 
