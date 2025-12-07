@@ -3,33 +3,36 @@
 
 ##    <p align="center"><strong>***Temas Vistos en la Unidad 2***</strong></p>
 
+---
+
 ##    ***Estructuras condicionales:*** 
-###   🧮 1. Estructura Condicional Simple "If":
-La condición if, es una instrucción condicional que evalúa una expresión booleana. Si la condición es verdadera se ejecuta el bloque de código dentro del if. Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción [4].
-####   ● Ejemplo:
+###   🟢 1. Estructura Condicional Simple "If":
+💡 Descripción: La condición if, es una instrucción condicional que evalúa una expresión booleana. Si la condición es verdadera se ejecuta el bloque de código dentro del if. Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción [4].
+####   🔹 Ejemplo:
 Este código simplemente analiza dos números ingresados.
 
-Si el número uno es mayor muestra: El primer número es el mayor.
+- ⚡ Si el número uno es mayor: `"El primer número es el mayor"`.
+- ⚡ Si el número dos es mayor: `"El segundo número es el mayor"`.
+- ⚡ Si son iguales: `"Los números son iguales"`.
 
-Si el número dos es el mayor muestra: El segundo número es el mayor.
-
-Si los dos numeros son iguales muestra: Los números son iguales.
-
-####   ● Código en C:
+####   💻 Código en C:
 <img width="705" height="555" alt="image" src="https://github.com/user-attachments/assets/bf221b66-6434-4b8a-9dc7-ada06882922e" />
 
-####   ● Diagrama de Flujo:
+####   🖥️ Diagrama de Flujo:
 <img width="933" height="976" alt="image" src="https://github.com/user-attachments/assets/06edb725-84f5-49e6-9861-ff69df1b51ad" />
 
 
 
 
 
-###   🔄 2. Estructura Condicional Doble "If-Else":
-La condición if-else, es una instrucción condicional que evalúa una expresión booleana. Si la condición es verdadera se ejecuta el bloque de código dentro del if. Si la condición es falsa el programa ejecutará el otro código de bloque dentro del else, esto asegura que siempre haya una acción, sin dejar el programa en blanco [4].
+###   🔵 2. Estructura Condicional Doble "If-Else":
+💡 Descripción: La condición if-else, es una instrucción condicional que evalúa una expresión booleana. Si la condición es verdadera se ejecuta el bloque de código dentro del if. Si la condición es falsa el programa ejecutará el otro código de bloque dentro del else, esto asegura que siempre haya una acción, sin dejar el programa en blanco [4].
 
 ####   ● Ejemplo:
-Dado como dato el sueldo de un trabajador, considera un aumento del 45% si su sueldo es inferior a 1000, de lo contrario realiza un descuento del 10%. 
+Dado como dato el sueldo de un trabajador:
+
+- ⚡ Aumento 45% si <1000  
+- ⚡ Descuento 10% si ≥1000
 
 Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
 
