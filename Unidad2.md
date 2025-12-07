@@ -5,7 +5,7 @@
 
 ---
 
-##    ***Estructuras condicionales:*** 
+##    🔀***Estructuras condicionales:*** 
 ###   🟢 1. Estructura Condicional Simple "If":
 💡 Descripción: La condición if, es una instrucción condicional que evalúa una expresión booleana. Si la condición es verdadera se ejecuta el bloque de código dentro del if. Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción [4].
 ####   🔹 Ejemplo:
@@ -117,9 +117,8 @@ Este código muestra los numeros del 1 al 10 y al revés, es decir del 10 al 1.
 ---
 
 
-##    ***Ejercicio Combinando Estructuras Condicionales y Repetitivas en Java*** 
+##    ☕ ***Ejercicio Combinando Estructuras Condicionales y Repetitivas en Java*** 
 ###   🟢 1. Estructura Combinando "If y Do-While":
-####   ● Descripción del problema: 
 💡 Descripción: Calculadora que divide valores, evitando dividir entre cero.
 
 - ⚡Los datos de entrada son: `"El numerdador y el denominador"`
@@ -172,29 +171,29 @@ Este código muestra los numeros del 1 al 10 y al revés, es decir del 10 al 1.
 ---
 
 ##   📌 ***Principales dificultades en la aplicación de los contenidos***
-- Dificultad en diferenciar `while` y `do-while`
-- Uso del `for`
-- Manejo de acumuladores y contadores
+- ⚡ Dificultad en diferenciar `while` y `do-while`
+- ⚡ Uso del `for`
+- ⚡ Manejo de acumuladores y contadores
 
 ---
 ---
 
 ##   📝 ***Reflexiones y Conclusiones***
 ###   📌 Conclusiones:
-Gracias a las condicionales los códigos se ven mas claros y faciles de usar, porque se pueden organizar las diferentes opciones de manera clara. Gracias a esto los programas pueden funcionar de forma correcta en cada caso sin necesidad de repetir instrucciones.
+🔹 Gracias a las condicionales los códigos se ven mas claros y faciles de usar, porque se pueden organizar las diferentes opciones de manera clara. Gracias a esto los programas pueden funcionar de forma correcta en cada caso sin necesidad de repetir instrucciones.
 
-Al concluir esta unidad nos dimos cuenta que gracais a los bucles podemos repetir acciones muchas veces sin tener que escribirlas una por una. Esto nos ahorra mucho tiempo y hace que el programa sea más corto y eficiente. 
+🔹 Al concluir esta unidad nos dimos cuenta que gracais a los bucles podemos repetir acciones muchas veces sin tener que escribirlas una por una. Esto nos ahorra mucho tiempo y hace que el programa sea más corto y eficiente. 
 
-Gracias a los acumuladores podemos sumar valores dentro de un ciclo y gracias a los contadores podemos llevar la cuenta de cuantas veces ocuurre algo dentro de cada ciclo.
+🔹 Gracias a los acumuladores podemos sumar valores dentro de un ciclo y gracias a los contadores podemos llevar la cuenta de cuantas veces ocuurre algo dentro de cada ciclo.
 
 
 ###   💡 Reflexión crítica:
 
-Las condiciones son útiles para que el programa decida qué hacer, pero si se usan demasiado pueden volver el código confuso y difícil de seguir, es mejor aprender a organizarlos bien, porque un exceso de condiciones puede complicar más que ayudar.
+🔹 Las condiciones son útiles para que el programa decida qué hacer, pero si se usan demasiado pueden volver el código confuso y difícil de seguir, es mejor aprender a organizarlos bien, porque un exceso de condiciones puede complicar más que ayudar.
 
-Los ciclos ahorran trabajo al repetir acciones, pero si no se usan bien el ciclo puede quedar en un bucle infinito y asi nunca podría terminar de ejecutarse. Usarlos sin tener claro lo que se necesita puede hacer que el programa sea lento o haga cosas innecesarias y asi gastar memoria innecesaria.
+🔹 Los ciclos ahorran trabajo al repetir acciones, pero si no se usan bien el ciclo puede quedar en un bucle infinito y asi nunca podría terminar de ejecutarse. Usarlos sin tener claro lo que se necesita puede hacer que el programa sea lento o haga cosas innecesarias y asi gastar memoria innecesaria.
 
-Los acumuladores son muy necesarios y básicos para sumar o contar dentro de un ciclo, pero si no se inicializan o se manejan de manera adecuada, los resultados pueden ser incorrectos. Aunque parecen simples, son clave para que el programa lleve un buen control de las veces que se repite algo.
+🔹 Los acumuladores son muy necesarios y básicos para sumar o contar dentro de un ciclo, pero si no se inicializan o se manejan de manera adecuada, los resultados pueden ser incorrectos. Aunque parecen simples, son clave para que el programa lleve un buen control de las veces que se repite algo.
 
 
 ---
