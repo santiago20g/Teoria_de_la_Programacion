@@ -5,7 +5,7 @@
 
 ---
 
-##    🔀***Estructuras condicionales:*** 
+##    <p align="center"><strong>🔀 ***Estructuras condicionales:***</strong></p>
 ###   🟢 1. Estructura Condicional Simple "If":
 💡 Descripción: La condición if, es una instrucción condicional que evalúa una expresión booleana. Si la condición es verdadera se ejecuta el bloque de código dentro del if. Si la condición es falsa el programa ignora ese bloque y continúa con la siguiente instrucción [4].
 ####   🔹 Ejemplo:
@@ -63,7 +63,7 @@ Se desea diseñar un algoritmo que escriba los nombres de los días de la semana
 ---
 
 
-##    🔄***Estructuras Repetitivas:*** 
+##    <p align="center"><strong>🔄 ***Estructuras Repetitivas:***</strong></p>
 
 ###   🟢 1. Estructura Repetitiva "While":
 💡 Descripción: La estructura repetitiva while, sirve para repetir una acción un número desconocido de veces, pero esta acción depende de una condición, la condición se analiza al principio y después se ejecutará la acción si es verdadera. Mientras la condición sea verdadera seguirá ejecutándose y dejará de ejecutarse cuando la condición pasa a hacer falsa [4].
