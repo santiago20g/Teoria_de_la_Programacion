@@ -25,10 +25,8 @@
 💡 Descripción: Cuando se pasa un parámetro por referencia, lo que se envía a la función es la dirección de memoria de la variable original, esto significa que la función trabaja directamente sobre la variable del programa principal, no sobre una copia, entonces si se hace un cambio dentro de la funcion si afecta a la varibale original.
 
 ####   🔹Ejemplo:
-- ⚡   
-- ⚡ 
-
-Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
+- ⚡ Los valores de "a = 3" y "b = 5" cambuian en la funcion. Cuando se imprimen en el Main se intercambian los valores.
+- ⚡ Se usan operadores & "para enviar direcciones" y * "para acceder y modificar valores".
 
 ####   💻 Código en C: 
 <img width="1117" height="863" alt="image" src="https://github.com/user-attachments/assets/b4f6c0ac-b801-4d6c-92b3-74cf3577e986" />
@@ -46,6 +44,10 @@ Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
 
 ###   🟢 1. Listas Unidimensionales "Vector":
 💡 Descripción: 
+
+
+####   Su estructura se ve asi:
+
 
 ####   🔹Ejemplo:
 
