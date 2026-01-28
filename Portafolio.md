@@ -39,8 +39,11 @@ Link de la Unidad 3:
 ---
 
 ### 🧭 ***Conclusiones***
-💬 Reflexión final sobre el proceso de aprendizaje y los logros alcanzados.  
-✨ Enfatiza la importancia del pensamiento lógico y la resolución de problemas.
+💬 Los algoritmos y las pruebas de escritorio ayudaron a comprender de forma clara cómo se siguen y ejecutan los pasos de un programa, facilitando el análisis antes de escribir el código.
+
+✨ El uso de estructuras condicionales y repetitivas permitió desarrollar programas más organizados, capaces de tomar decisiones y repetir acciones según diferentes situaciones.
+
+🧠 El uso de arreglos y matrices facilitó el trabajo con varios datos al mismo tiempo, haciendo los programas más ordenados y eficientes.
 
 ---
 
