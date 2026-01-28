@@ -6,16 +6,15 @@
 ---
 
 ##    <p align="center"><strong>🔀 ***Modularidad:***</strong></p>
-###   🟢 1. Pase de Parametro por Valor:
-💡 Descripción: 
+###   🟢 1. Pase de Parametros por Valor:
+💡 Descripción: Cuando se pasa un parámetro por valor, lo que se envía a la función es una copia del dato original, esto significa que cualquier cambio que se haga dentro de la función no afecta al valor de la variable en el programa principal.
+
 ####   🔹 Ejemplo:
-
-
-- ⚡ 
-- ⚡ 
-- ⚡ 
+- ⚡ Se envían los valores de "a" y "b" a la función. Dentro de la función, "x" recibe una copia de "a", y "y" recibe una copia de "b".
+- ⚡ Se necesita un auxiliar
 
 ####   💻 Código en C:
+<img width="1117" height="865" alt="image" src="https://github.com/user-attachments/assets/ab9a0954-64f0-48fc-b44e-67934fa74f77" />
 
 
 
@@ -23,17 +22,16 @@
 
 
 ###   🔵 2. Pase de Parametro por Referencia:
-💡 Descripción: 
+💡 Descripción: Cuando se pasa un parámetro por referencia, lo que se envía a la función es la dirección de memoria de la variable original, esto significa que la función trabaja directamente sobre la variable del programa principal, no sobre una copia, entonces si se hace un cambio dentro de la funcion si afecta a la varibale original.
 
 ####   🔹Ejemplo:
-
-
 - ⚡   
 - ⚡ 
 
 Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
 
 ####   💻 Código en C: 
+<img width="1117" height="863" alt="image" src="https://github.com/user-attachments/assets/b4f6c0ac-b801-4d6c-92b3-74cf3577e986" />
 
 
 
