@@ -29,7 +29,9 @@ Link de la Unidad 2:
 ---
 
 ### 🧱 ***Unidad 3***
-🚀 Aplicación de conceptos avanzados en resolución de problemas reales.  
+🧱💻 Programación Modular y Manejo de Arreglos y Matrices en C
+Link de la Unidad 2:
+[Unidad 2](Unidad3.md) 
 
 ---
 
