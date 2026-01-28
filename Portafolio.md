@@ -30,8 +30,8 @@ Link de la Unidad 2:
 
 ### 🧱 ***Unidad 3***
 🧱💻 Programación Modular y Manejo de Arreglos y Matrices en C
-Link de la Unidad 2:
-[Unidad 2](Unidad3.md) 
+Link de la Unidad 3:
+[Unidad 3](Unidad3.md) 
 
 ---
 
