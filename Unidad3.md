@@ -102,12 +102,12 @@
 ##    💻 ***APE - Aprendizaje Práctico Experimental***
 
 ###    1. Construcción de funciones y procedimientos en un lenguaje de programación: 
-####  🔗 [Actividad APE 1](LINK DE DRIVE)
+####  🔗 [Actividad APE 1](https://drive.google.com/file/d/1Yi1KxWn2n5VvgddqLNo1KZIsk0ur9fOz/view?usp=sharing)
 
 
 
 ###    2. Implementación de funciones utilizando el paso de parámetros por valor y por referencia: 
-####  🔗 [Actividad APE 2](LINK DE DRIVE)
+####  🔗 [Actividad APE 2](https://drive.google.com/file/d/1QQKu5XuYdsayHUz01Ds_1xJnhIuH7Mt9/view?usp=sharing)
 
 
 
@@ -117,7 +117,7 @@
 ##    💡***AA - Aprendizaje Autónomo***
 
 ###    1. Curso Fundamentos de Python 1. Computación UNL:
-####  🔗 [Actividad AA 1](LINK DE DRIVE)
+####  🔗 [Actividad AA 1](https://drive.google.com/file/d/1tmwndZAheQlX66LAPfo1f4CimQHROrT-/view?usp=sharing)
 
 
 
@@ -125,7 +125,7 @@
 ---
 
 ##   📌 ***Principales dificultades en la aplicación de los contenidos***
-- ⚡ Dificultad en diferenciar los pases de parametro por `valor` y `referencia`.
+- ⚡ Dificultad en diferenciar los pases de parametro por `valor` y `referencia.`
 - ⚡ Manejo de matrices tridimensionales.
 
 ---
